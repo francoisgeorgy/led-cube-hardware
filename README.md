@@ -45,6 +45,22 @@ This chassis can not be used as-is. You'll have to cut the four corner brackets 
 
 I'm designing a new chassis. I will update this page as soon as it is ready.
 
+Panels connections
+------------------
+
+![panels-chains.jpg](images%2Fpanels-chains.jpg)
+
+The panels are connected as 2 chains or 3 panels. 
+
+Each chain is connected to the Hub75 RGB interface. The third RGB interface connector is not used. 
+
+Using only 2 of the 3 available Hub75 interface leave some GPIO free to be used for I2C sensors (accelerometer, etc.)
+
+If we had used all 3 Hub75 chains, then there would be no GPIO signal available.
+
+If, however, you wish to use the 3 available Hub75 channels, then there would always be the possibility of using the 
+Raspberry Pi's USB ports to communicate with external sensors.
+
 Power distribution
 ------------------
 
