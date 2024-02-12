@@ -43,4 +43,11 @@ I printed everything with https://jlcpcb.com/
 
 This chassis can not be used as-is. You'll have to cut the four corner brackets and fix the chassis with magnets instead of screws. 
 
-I'm designing a new chassis. I will update this page as soon as it is ready. 
+I'm designing a new chassis. I will update this page as soon as it is ready.
+
+Power distribution
+------------------
+
+![power-distribution.jpg](images%2Fpower-distribution.jpg)
+
+
