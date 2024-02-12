@@ -15,6 +15,10 @@ Brackets and chassis design
 
 There's an ongoing onShape design available [here](https://cad.onshape.com/documents/eb233c4f247d5269fe5ad74c/w/e5c8d36a0c3e44b3f1d693f6/e/4bf935a9030cdb6dc0eedcf4?renderMode=0&uiState=65ca1be860cfac3fed548dd4).
 
+This design is not final and will evolve. The main change is that the main chassis (which houses the RPi and the batteries)
+will no longer be fixed with screws but with magnets. 
+
+Long term goal: 100% screw-free assembly, using magnets only.
 
 3D print
 --------
@@ -36,3 +40,7 @@ I printed everything with https://jlcpcb.com/
 - Material: 3201PA-F Nylon
 - Colors: Black
 - Surface Finish: No
+
+This chassis can not be used as-is. You'll have to cut the four corner brackets and fix the chassis with magnets instead of screws. 
+
+I'm designing a new chassis. I will update this page as soon as it is ready. 
