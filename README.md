@@ -13,10 +13,10 @@ See [BOM.md](BOM.md).
 Brackets and chassis design
 ---------------------------
 
-> **Warning**
-Please note: all mechanical dimensions are only valid for the LED panels I used. Other panels will most likely have 
-different specifications, particularly regarding the location of the mounting holes. Measure your panels before you 
-begin 3D printing and assembly.
+> [!WARNING]  
+> Please note: all mechanical dimensions are only valid for the LED panels I used. Other panels will most likely have 
+> different specifications, particularly regarding the location of the mounting holes. Measure your panels before you 
+> begin 3D printing and assembly.
 
 There's an ongoing onShape design available [here](https://cad.onshape.com/documents/eb233c4f247d5269fe5ad74c/w/e5c8d36a0c3e44b3f1d693f6/e/4bf935a9030cdb6dc0eedcf4?renderMode=0&uiState=65ca1be860cfac3fed548dd4).
 
