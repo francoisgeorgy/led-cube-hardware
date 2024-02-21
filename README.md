@@ -53,7 +53,7 @@ I'm designing a new chassis. I will update this page as soon as it is ready.
 Panels connections
 ------------------
 
-![panels-chains.jpg](images%2Fpanels-chains.jpg)
+See [panels-connection.pdf](panels-connection.pdf) document.
 
 The panels are connected as 2 chains or 3 panels. 
 
@@ -69,7 +69,7 @@ Raspberry Pi's USB ports to communicate with external sensors.
 Power distribution
 ------------------
 
-![power-distribution.jpg](images%2Fpower-distribution.jpg)
+See [power-distribution.pdf](power-distribution.pdf) and [power-wiring.pdf](power-wiring.pdf) documents.
 
 The mini DC-DC step-down converters are rated at 4A max. That's barely enough to drive 4 panels. One single panel can
 draw as much as 4A when displaying white (RGB 255,255,255) at max brightness.
